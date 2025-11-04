@@ -1,4 +1,15 @@
+************* Module src.cli
+src\cli.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+src\cli.py:39:0: C0304: Final newline missing (missing-final-newline)
+src\cli.py:7:0: E0401: Unable to import 'calculator' (import-error)
+src\cli.py:34:11: W0718: Catching too general exception Exception (broad-exception-caught)
+src\cli.py:39:4: E1120: No value for argument 'operation' in function call (no-value-for-parameter)
+src\cli.py:39:4: E1120: No value for argument 'num1' in function call (no-value-for-parameter)
+src\cli.py:7:0: W0611: Unused multiply imported from calculator (unused-import)
+src\cli.py:7:0: W0611: Unused divide imported from calculator (unused-import)
+src\cli.py:7:0: W0611: Unused power imported from calculator (unused-import)
+src\cli.py:7:0: W0611: Unused square_root imported from calculator (unused-import)
 
---------------------------------------------------------------------
-Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+------------------------------------------------------------------
+Your code has been rated at 4.76/10 (previous run: 4.76/10, +0.00)
 
